@@ -1,0 +1,11 @@
+{
+    "class_names": [
+        "Broadtailed_female",
+        "Broadtailed_male",
+        "No_bird",
+        "Rufous_female"
+    ],
+    "img_size": 224,
+    "test_accuracy": 0.8571428656578064,
+    "train_accuracy": 1.0
+}

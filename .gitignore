@@ -1,0 +1,11 @@
+# Dataset (too large, not needed in repo)
+hummingbirdimages/
+hummingbirdimages.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
